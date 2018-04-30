@@ -16,3 +16,7 @@
 * `sudo apt install pdftk`
 * `sudo apt install kdenlive`
 
+## misc
+* https://www.digitalocean.com/community/tutorials/how-to-set-up-python-2-7-6-and-3-3-3-on-centos-6-4
+> Do not assume the tools shipped with the operating system are for your use, and start making the habit of setting up all you need on your own.
+
