@@ -1,8 +1,9 @@
 # tex
 
 ## helper
-* https://verbosus.com/bibtex-style-examples.html
 * http://detexify.kirelabs.org/classify.html
+* https://verbosus.com/bibtex-style-examples.html
+* https://www.tablesgenerator.com/
 
 ## typing
 * Not to break inline formulas: 
