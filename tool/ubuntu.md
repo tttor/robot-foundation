@@ -1,5 +1,12 @@
 # ubuntu
 
+## ssh without passwd
+* `ssh-keygen`
+  * create 2 files: `id_rsa_foo` and `id_rsa_foo.pub`,
+    usually under `~/.ssh`
+* `ssh-copy-id -i <path/to/id_rsa_goliath.pub username@remotehost`
+* ref: https://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/
+
 ## must
 * `sudo apt install git`
 * `sudo apt install sublime-text`, see [this](https://www.sublimetext.com/docs/3/linux_repositories.html)
