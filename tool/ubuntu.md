@@ -1,5 +1,8 @@
 # ubuntu
 
+## monitor
+* `nvidia-smi -l 1` # loop 1 Hz
+
 ## ssh without passwd
 * `ssh-keygen`
   * create 2 files: `id_rsa_foo` and `id_rsa_foo.pub`,
