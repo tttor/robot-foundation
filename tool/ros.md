@@ -1,5 +1,5 @@
 # [ROS](http://ros.org/)
-## Cmd
+## cmd
 * system
   * `catkin_create_pkg beginner_tutorials std_msgs rospy roscpp`
   * `catkin_make`
@@ -13,11 +13,11 @@
   * `rosrun tf tf_monitor <source_frame> <target_target>`
   * `rosrun tf view_frames` # generate a pdf
   
-## With Gazebo
+## with Gazebo
 * `roslaunch gazebo_worlds empty_world.launch` 
 * `gzsdf print urdfname.urdf > newname.sdf` # from [here](http://answers.gazebosim.org/question/2282/convert-urdf-to-sdf-or-load-urdf/)
 
-## Best practices
+## best practices
 * topics vs services vs actionlib
   * https://answers.ros.org/question/11834/when-should-i-use-topics-vs-services-vs-actionlib-actions-vs-dynamic_reconfigure/
   * http://wiki.ros.org/ROS/Patterns/Communication#Communication_via_Topics_vs_Services_vs_X
@@ -34,11 +34,14 @@ rm -rf build devel install
 * ref:
   * https://github.com/ethz-asl/ros_best_practices/wiki
     
-## Tutorials
+## tutorials
 * http://wiki.ros.org/ROS/Tutorials
 * http://www.clearpathrobotics.com/assets/guides/ros/index.html
 * http://jbohren.com/tutorials/2014-02-10-roscpp-hello-world/
 * http://jbohren.com/tutorials/2014-02-12-gentle-catkin-intro/
  
-## Tools
-* Visualize quarternion: http://quaternions.online/
+## quick ref
+* actionlib: http://docs.ros.org/jade/api/actionlib/html/index.html
+  
+## tools
+* visualize quarternion: http://quaternions.online/
