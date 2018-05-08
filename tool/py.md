@@ -1,7 +1,11 @@
 # py: python
 
-* py style:
-  https://www.python.org/dev/peps/pep-0008/
+## best practice
+* py style: https://www.python.org/dev/peps/pep-0008/
+* refactoring: https://martinfowler.com/books/refactoring.html
+* code analyzer
+  * https://pypi.org/project/pylint/
+  * http://pylint-messages.wikidot.com/
 
 ## python3
 * `sudo apt install python3-pip`
