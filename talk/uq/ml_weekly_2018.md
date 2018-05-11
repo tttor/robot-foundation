@@ -1,6 +1,19 @@
 # ml_weekly_2018.md
 https://paper.dropbox.com/doc/UQ-ML-Reading-Group-Schedule-O0e6GrWgdFS7dqZ49wFFZ
 
+## May 11, 2018: 
+* http://learnbayes.org/papers/confidenceIntervalsFallacy/lostsub.html
+* Variational Inference: A Review for Statisticians by Blei et. al. (2018)
+  * https://arxiv.org/pdf/1601.00670.pdf
+* bayesian network vs bayesian model
+  * bayesian network:
+    * no prior
+    * use bayesian rule to make inference
+* bayesian vs frequentist
+  * specifying prior?
+  * prior does vanish as n_data goes to infinity
+* KL divergence
+
 ## Apr 27, 2018: kernel methods
 * embedding into feature spaces
 * kernel trick: 
