@@ -34,11 +34,12 @@ rm -rf build devel install
 * ref:
   * https://github.com/ethz-asl/ros_best_practices/wiki
     
-## tutorials
+## tutorial, book
 * http://wiki.ros.org/ROS/Tutorials
 * http://www.clearpathrobotics.com/assets/guides/ros/index.html
 * http://jbohren.com/tutorials/2014-02-10-roscpp-hello-world/
 * http://jbohren.com/tutorials/2014-02-12-gentle-catkin-intro/
+* https://www.cse.sc.edu/~jokane/agitr/
  
 ## quick ref
 * actionlib: http://docs.ros.org/jade/api/actionlib/html/index.html
