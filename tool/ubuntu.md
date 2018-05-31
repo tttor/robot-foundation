@@ -7,7 +7,7 @@
 * `ssh-keygen`
   * create 2 files: `id_rsa_foo` and `id_rsa_foo.pub`,
     usually under `~/.ssh`
-* `ssh-copy-id -i <path/to/id_rsa_goliath.pub username@remotehost`
+* `ssh-copy-id -i <path/to/id_rsa_goliath.pub> username@remotehost`
 * ref: https://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/
 
 ## must
