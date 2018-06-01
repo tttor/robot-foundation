@@ -1,6 +1,12 @@
 # ml_weekly_2018.md
 https://paper.dropbox.com/doc/UQ-ML-Reading-Group-Schedule-O0e6GrWgdFS7dqZ49wFFZ
 
+## Jun 1, 2018
+* Diederik Pieter Kingma: https://www.dropbox.com/s/v6ua3d9yt44vgb3/cover_and_thesis.pdf?dl=1
+* Generating Neural Networks with Neural Networks: https://arxiv.org/abs/1801.01952
+* auto-encoder: dimensionaly reduction
+* Composing graphical models with neural networks for structured representations and fast inference: https://arxiv.org/abs/1603.06277?context=stat
+
 ## May 11, 2018: 
 * http://learnbayes.org/papers/confidenceIntervalsFallacy/lostsub.html
 * Variational Inference: A Review for Statisticians by Blei et. al. (2018)
