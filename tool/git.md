@@ -15,3 +15,6 @@ csha = repo.head.object.hexsha
 ctime = time.asctime(time.localtime(repo.head.object.committed_date))
 cmsg = repo.head.object.message.strip()
 ```
+
+## LaTeX equations in GitHub repositories
+https://github.com/orsharir/github-mathjax
