@@ -17,4 +17,5 @@ cmsg = repo.head.object.message.strip()
 ```
 
 ## LaTeX equations in GitHub repositories
-https://github.com/orsharir/github-mathjax
+* https://github.com/orsharir/github-mathjax
+* https://chrome.google.com/webstore/detail/github-with-mathjax/ioemnmodlmafdkllaclgeombjnmnbima
