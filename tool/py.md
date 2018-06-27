@@ -27,3 +27,4 @@
 * https://stackoverflow.com/questions/7969949/whats-the-difference-between-globals-locals-and-vars
 * https://stackoverflow.com/questions/222877/what-does-super-do-in-python
 * https://stackoverflow.com/questions/15719172/overload-operator-in-python
+* https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do
