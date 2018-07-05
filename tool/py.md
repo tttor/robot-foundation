@@ -1,6 +1,7 @@
 # py: python
 
 ## best practice
+* standard modules: https://pymotw.com/3/
 * py style: https://www.python.org/dev/peps/pep-0008/
 * refactoring: https://martinfowler.com/books/refactoring.html
 * code analyzer
