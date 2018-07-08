@@ -30,3 +30,5 @@
 * https://stackoverflow.com/questions/15719172/overload-operator-in-python
 * https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do
 * https://stackoverflow.com/questions/4015417/python-class-inherits-object
+* https://stackoverflow.com/questions/4780088/what-does-preceding-a-string-literal-with-r-mean
+* https://stackoverflow.com/questions/3844801/check-if-all-elements-in-a-list-are-identical
