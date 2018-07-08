@@ -29,3 +29,4 @@
 * https://stackoverflow.com/questions/222877/what-does-super-do-in-python
 * https://stackoverflow.com/questions/15719172/overload-operator-in-python
 * https://stackoverflow.com/questions/231767/what-does-the-yield-keyword-do
+* https://stackoverflow.com/questions/4015417/python-class-inherits-object
