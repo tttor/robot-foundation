@@ -24,6 +24,9 @@
 ## misc
 * ipynb to py: https://stackoverflow.com/questions/37797709/convert-json-ipython-notebook-ipynb-to-py-file
   * `jupyter nbconvert --to script 'my-notebook.ipynb'`
+* https://stackoverflow.com/questions/13520876/how-can-i-make-multiple-empty-lists-in-python
+  * `lists = [[] for _ in range(n)]`
+  * NOT: `lists = [[]] * 5`
 * https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python
 * https://stackoverflow.com/questions/7969949/whats-the-difference-between-globals-locals-and-vars
 * https://stackoverflow.com/questions/222877/what-does-super-do-in-python
@@ -32,3 +35,4 @@
 * https://stackoverflow.com/questions/4015417/python-class-inherits-object
 * https://stackoverflow.com/questions/4780088/what-does-preceding-a-string-literal-with-r-mean
 * https://stackoverflow.com/questions/3844801/check-if-all-elements-in-a-list-are-identical
+* https://stackoverflow.com/questions/850795/different-ways-of-clearing-lists
