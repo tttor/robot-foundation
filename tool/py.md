@@ -36,3 +36,4 @@
 * https://stackoverflow.com/questions/4780088/what-does-preceding-a-string-literal-with-r-mean
 * https://stackoverflow.com/questions/3844801/check-if-all-elements-in-a-list-are-identical
 * https://stackoverflow.com/questions/850795/different-ways-of-clearing-lists
+* https://stackoverflow.com/questions/400739/what-does-asterisk-mean-in-python
