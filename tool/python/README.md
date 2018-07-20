@@ -27,6 +27,8 @@
 * https://stackoverflow.com/questions/13520876/how-can-i-make-multiple-empty-lists-in-python
   * `lists = [[] for _ in range(n)]`
   * NOT: `lists = [[]] * 5`
+* https://stackoverflow.com/questions/1986152/why-doesnt-python-have-a-sign-function
+  * `sign = lambda x: math.copysign(1, x)`
 * https://stackoverflow.com/questions/6392739/what-does-the-at-symbol-do-in-python
 * https://stackoverflow.com/questions/7969949/whats-the-difference-between-globals-locals-and-vars
 * https://stackoverflow.com/questions/222877/what-does-super-do-in-python
