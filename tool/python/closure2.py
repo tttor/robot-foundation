@@ -5,9 +5,7 @@ def main():
     val = 10000
 
     def closure(val_mod):
-        nonlocal val
-        val = 0
-        val += val_mod
+        val = val_mod
         print('closure(): val=', val)
 
         def fn_inside_closure(val_mod_2):
