@@ -1,8 +1,8 @@
 #!/bin/sh
 ROOT_TEX=main
-BUILD_DIR=~/tmp/build-deeprl-reading
+BUILD_DIR=~/tmp/build-lstdrl
 OUT_DIR=~/tmp
-OUT_FNAME=deeprl_reading_vektor.pdf
+OUT_FNAME=lstdrl_vektor.pdf
 
 mkdir -p $BUILD_DIR
 rm -rf $BUILD_DIR/*

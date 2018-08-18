@@ -1,8 +1,7 @@
--#!/bin/sh
-
+#!/bin/sh
 ROOT_TEX=main
-BUILD_DIR=/home/tor/tmp/build-deeprl-reading
-OUT_DIR=/home/tor/tmp
+BUILD_DIR=~/tmp/build-deeprl-reading
+OUT_DIR=~/tmp
 OUT_FNAME=cvx_sgd_vektor.pdf
 
 mkdir -p $BUILD_DIR
