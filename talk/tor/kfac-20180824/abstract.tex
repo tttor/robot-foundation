@@ -6,13 +6,12 @@
 
 Problem:
 \begin{itemize}
-    \item efficiently computing the inverse of Fisher info matrix $F^{-1}$
-        (or its product with $\nabla h$) for natural gradients
+    \item for natural gradients, there is still NO way to efficiently compute
+        the inverse of Fisher info matrix $F^{-1}$ (or its product with a vector, eg $\nabla h$)
 \end{itemize}
 
 Idea:
 \begin{itemize}
-    \item curvature matrix is high quality approximation of Fisher
     \item approximate $F^{-1}$ as block diagonal or block tridiagonal matrices
 \end{itemize}
 

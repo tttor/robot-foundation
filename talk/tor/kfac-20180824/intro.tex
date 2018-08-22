@@ -9,8 +9,10 @@
     \includegraphics[scale=0.2]{net}
 \end{figure}
 
-$\bar{a}_i$: $a_i$ appended by a homogeneous coordinate with value 1,
-to capture biar parameters explicitly
+\begin{itemize}
+    \item $\bar{a}_i$ is $a_i$ appended by a homogeneous coordinate with value 1, ie
+            to capture bias parameters explicitly
+\end{itemize}
 \end{frame}
 
 \begin{frame}
@@ -23,8 +25,9 @@ to capture biar parameters explicitly
 
 \begin{itemize}
     \item $vec$ vectorizes matrices by stacking their columns together
-    \item $\hat{Q}_{x, y}$: a training distribution
-    \item $p(y|x, \theta) = r(y|f(x, \theta))$: the density function of $P_{y|x}(\theta) = R_{y|f(x,\theta)}$
+    \item $\hat{Q}_{x, y}$ is a training distribution
+    \item $p(y|x, \theta) = r(y|f(x, \theta))$ is the density function of $P_{y|x}(\theta) = R_{y|f(x,\theta)}$
+    \item minimizing $h(\theta)$ can be seen as maximum likelihood learning of~$P_{y|x}(\theta)$.
 \end{itemize}
 
 \end{frame}

@@ -1,18 +1,23 @@
-\section{KFAC}
+\section{KFAC: initial approximation $\tilde{F}$}
 \frame{\tableofcontents[currentsection, hideothersubsections]}
 
 \begin{frame}
-\frametitle{KFAC}
+\frametitle{KFAC: initial approximation $\tilde{F}$}
 
 \begin{figure}
     \centering
-    \includegraphics[scale=0.275]{kfac_01}
+    \includegraphics[scale=0.175]{fisher}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.225]{kfac_01}
 \end{figure}
 
 \end{frame}
 
 \begin{frame}
-\frametitle{KFAC}
+\frametitle{KFAC: initial approximation $\tilde{F}$}
 
 \begin{figure}
     \centering
@@ -22,22 +27,26 @@
 \end{frame}
 
 \begin{frame}
-\frametitle{KFAC}
+\frametitle{KFAC: initial approximation $\tilde{F}$}
 
 \begin{figure}
     \centering
-    \includegraphics[scale=0.25]{kfac_03}
+    \includegraphics[scale=0.215]{kfac_03}
 \end{figure}
 
 \begin{figure}
     \centering
-    \includegraphics[scale=0.25]{kfac_04}
+    \includegraphics[scale=0.2]{kfac_04}
 \end{figure}
+
+Indeed a major approximation because\\
+the expectation of a Kronecker product is, in general, NOT
+equal to the Kronecker product of expectations
 
 \end{frame}
 
 \begin{frame}
-\frametitle{KFAC}
+\frametitle{KFAC: initial approximation $\tilde{F}$}
 Comparing the exact $F$ vs its approximate $\tilde{F}$
 \begin{figure}
     \centering
@@ -46,25 +55,4 @@ Comparing the exact $F$ vs its approximate $\tilde{F}$
 
 \end{frame}
 
-\begin{frame}
-\frametitle{KFAC}
-Recall:
-\begin{figure}
-    \centering
-    \includegraphics[scale=0.2]{natgrad}
-\end{figure}
 
-We already have $\tilde{F} \approx F$, then: \\
-how to \textbf{efficiently} compute $\tilde{F}^{-1}$ or its product, $\tilde{F}^{-1}\nabla h$?
-\end{frame}
-
-\begin{frame}
-\frametitle{KFAC}
-Structure in the inverse Fisher:
-\begin{figure}
-    \centering
-    \includegraphics[scale=0.2]{kfac_06}
-\end{figure}
-(plotting absolute value of entries, dark means small)
-
-\end{frame}
