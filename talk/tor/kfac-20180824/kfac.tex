@@ -2,7 +2,7 @@
 \frame{\tableofcontents[currentsection, hideothersubsections]}
 
 \begin{frame}
-\frametitle{KFAC: initial approximation $\tilde{F}$}
+\frametitle{KFAC: Initial approximation $\tilde{F}$}
 
 \begin{figure}
     \centering
@@ -17,7 +17,7 @@
 \end{frame}
 
 \begin{frame}
-\frametitle{KFAC: initial approximation $\tilde{F}$}
+\frametitle{KFAC: Initial approximation $\tilde{F}$}
 
 \begin{figure}
     \centering
@@ -27,7 +27,7 @@
 \end{frame}
 
 \begin{frame}
-\frametitle{KFAC: initial approximation $\tilde{F}$}
+\frametitle{KFAC: Initial approximation $\tilde{F}$}
 
 \begin{figure}
     \centering
@@ -46,7 +46,7 @@ equal to the Kronecker product of expectations
 \end{frame}
 
 \begin{frame}
-\frametitle{KFAC: initial approximation $\tilde{F}$}
+\frametitle{KFAC: Initial approximation $\tilde{F}$}
 Comparing the exact $F$ vs its approximate $\tilde{F}$
 \begin{figure}
     \centering
@@ -55,4 +55,32 @@ Comparing the exact $F$ vs its approximate $\tilde{F}$
 
 \end{frame}
 
+\begin{frame}
+\frametitle{KFAC: Initial approximation $\tilde{F}$}
+Recall:
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.2]{natgrad}
+\end{figure}
 
+We already have $\tilde{F} \approx F$, then: \\
+how to \textbf{efficiently} compute $\tilde{F}^{-1}$ or its product, $\tilde{F}^{-1}\nabla h$?
+\end{frame}
+
+\begin{frame}
+\frametitle{KFAC: Initial approximation $\tilde{F}$}
+Structure in the inverse Fisher:
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.2]{kfac_06}
+\end{figure}
+(plotting absolute value of entries, dark means small)
+\end{frame}
+
+\begin{frame}
+\frametitle{KFAC: Initial approximation $\tilde{F}$}
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.275]{kfac_07}
+\end{figure}
+\end{frame}
