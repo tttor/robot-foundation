@@ -1,0 +1,34 @@
+\section{Abstract}
+\frame{\tableofcontents[currentsection, hideothersubsections]}
+
+\begin{frame}
+\frametitle{Abstract}
+
+Problem:
+\begin{itemize}
+    \item efficiently computing the inverse of Fisher info matrix $F^{-1}$
+        (or its product with $\nabla h$) for natural gradients
+\end{itemize}
+
+Idea:
+\begin{itemize}
+    \item curvature matrix is high quality approximation of Fisher
+    \item approximate $F^{-1}$ as block diagonal or block tridiagonal matrices
+\end{itemize}
+
+Result:
+\begin{itemize}
+    \item much faster (fewer iterations) than SGD with momentum
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Abstract}
+
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.25]{mnist_autoencoder}
+\end{figure}
+
+\end{frame}

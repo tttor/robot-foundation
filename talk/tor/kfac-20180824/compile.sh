@@ -1,8 +1,8 @@
 #!/bin/sh
 ROOT_TEX=main
-BUILD_DIR=~/tmp/build-lstdrl
+BUILD_DIR=~/tmp/build-kfac
 OUT_DIR=~/tmp
-OUT_FNAME=lstdrl_vektor.pdf
+OUT_FNAME=kfac_vektor.pdf
 
 mkdir -p $BUILD_DIR
 rm -rf $BUILD_DIR/*
