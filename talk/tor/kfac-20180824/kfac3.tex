@@ -17,20 +17,24 @@ approximating $\tilde{F}^{-1}$ as block-tridiagonal is NOT equivalent to approxi
 \begin{frame}
 \frametitle{KFAC: Block-tridiagonal inverse approx, $\hat{F}^{-1} \approx \tilde{F}^{-1}$}
 \begin{itemize}
-    \item Define $\hat{F}$ to be the matrix which agrees with $\tilde{F}$ on the tridiagonal blocks, and
-        which satisfies the property that $\hat{F}^{-1}$ is block-tridiagonal
-    \item Assume that $\hat{F}^{-1}$ is block-tridiagonal is equivalent to
+    % \item Define $\hat{F}$ that agrees with $\tilde{F}$ on the tridiagonal blocks,
+    %     \begin{itemize}
+    %         \item and that satisfies the property that $\hat{F}^{-1}$ is block-tridiagonal
+    %     \end{itemize}
+    \item Assume that $\hat{F}^{-1}$ is block-tridiagonal
         \begin{itemize}
-        \item assuming that it is the precision matrix of an undirected Gaussian graphical model (UGGM) over $\mathcal{D}\theta$
+            \item is equivalent to assuming that:
+            $\hat{F}^{-1}$ is the precision matrix of an undirected Gaussian graphical model (UGGM) over $\mathcal{D}\theta$
         \end{itemize}
     \item As this graphical model has a tree structure, there is an equivalent
         directed graphical model with the same distribution
         \begin{itemize}
-        \item this equivalent directed model will also be linear/Gaussian, and
-        \item hence, a directed Gaussian Graphical model (DGGM).
+            \item this equivalent directed model will also be linear/Gaussian, and
+            hence, a directed Gaussian Graphical model (DGGM).
         \end{itemize}
 \end{itemize}
 
+\vspace{10mm}
 {\footnotesize
 Recall: The precision matrix of a random vector is the inverse of its covariance matrix.
 % * https://www.statlect.com/glossary/precision-matrix
@@ -42,6 +46,32 @@ Recall: The precision matrix of a random vector is the inverse of its covariance
 \begin{figure}
     \centering
     \includegraphics[scale=0.25]{kfac_fig_04_arxiv}
+\end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{KFAC: Block-tridiagonal inverse approx, $\hat{F}^{-1} \approx \tilde{F}^{-1}$}
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.25]{kfac_16}
+\end{figure}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{KFAC: Block-tridiagonal inverse approx, $\hat{F}^{-1} \approx \tilde{F}^{-1}$}
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.325]{kfac_17}
+\end{figure}
+
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.325]{kfac_18}
+\end{figure}
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.3]{kfac_19}
 \end{figure}
 \end{frame}
 

@@ -9,7 +9,8 @@ Setup:
     \item baseline: SGD w/ momentum (well-tuned)
     \item $m$ is the mini-batch size;\\
           using an exponentially increasing schedule for $m$, ie
-          $m_k = min(1000~exp((k − 1)/b), |S|)$
+          $m_k = min(1000~exp((k - 1)/b), |S|)$,\\
+            $b$ is chosen so that $m_{500} = |S|$ with the sample set $S$
 \end{itemize}
 % \begin{figure}
 %     \centering
@@ -21,15 +22,17 @@ Setup:
 \frametitle{Experiments}
 \begin{figure}
     \centering
-    \includegraphics[scale=0.25]{mnist_autoencoder}
+    \includegraphics[scale=0.275]{mnist_autoencoder}
 \end{figure}
-
+Note: momentum and minibatch size scheduling are crucial!
 \end{frame}
 
 \begin{frame}
 \frametitle{Experiments}
 \begin{figure}
     \centering
-    \includegraphics[scale=0.2]{faces_autoencoder}
+    \includegraphics[scale=0.175]{faces_autoencoder}
 \end{figure}
+Note: the block-diagonal approx is good enough already :), \\
+compared to more sophisticated block-tridiagonal approx!
 \end{frame}

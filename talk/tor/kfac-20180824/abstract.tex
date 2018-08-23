@@ -7,18 +7,17 @@
 Problem:
 \begin{itemize}
     \item for natural gradients, there is still NO way to efficiently compute
-        the inverse of Fisher info matrix $F^{-1}$ (or its product with a vector, eg $\nabla h$)
+        the inverse of Fisher info matrix $F^{-1}$ (or its product with a vector)
 \end{itemize}
 
 Idea:
 \begin{itemize}
-    \item uses an efficiently invertible approximation to Fisher to compute approximation natural gradient
-    \item concretely, approximate $F^{-1}$ as block diagonal or block tridiagonal matrices
+    \item approximate $F^{-1}$ as block diagonal or block tridiagonal matrices
 \end{itemize}
 
 Result:
 \begin{itemize}
-    \item much faster (fewer iterations) than SGD with momentum
+    \item much faster (fewer iterations) than well-tuned SGD with momentum
 \end{itemize}
 
 \end{frame}
@@ -31,8 +30,9 @@ $\tilde{F}^{-1}$, its approximations $\breve{F}^{-1}$ (top) and $\hat{F}^{-1}$ (
 }
 \begin{figure}
     \centering
-    \includegraphics[scale=0.225]{kfac_12}
+    \includegraphics[scale=0.2]{kfac_12}
 \end{figure}
+(plotting absolute values of entries, dark means small)
 \end{frame}
 
 \begin{frame}
@@ -41,4 +41,5 @@ $\tilde{F}^{-1}$, its approximations $\breve{F}^{-1}$ (top) and $\hat{F}^{-1}$ (
     \centering
     \includegraphics[scale=0.25]{mnist_autoencoder}
 \end{figure}
+(Baseline: well-tuned SGD with momentum)
 \end{frame}
