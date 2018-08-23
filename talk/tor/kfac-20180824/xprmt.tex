@@ -11,6 +11,8 @@ Setup:
           using an exponentially increasing schedule for $m$, ie
           $m_k = min(1000~exp((k - 1)/b), |S|)$,\\
             $b$ is chosen so that $m_{500} = |S|$ with the sample set $S$
+    \item report the results on the training set \\
+          (focus on optimization speed, NOT the generalization in the test set)
 \end{itemize}
 % \begin{figure}
 %     \centering
@@ -34,5 +36,5 @@ Note: momentum and minibatch size scheduling are crucial!
     \includegraphics[scale=0.175]{faces_autoencoder}
 \end{figure}
 Note: the block-diagonal approx is good enough already :), \\
-compared to more sophisticated block-tridiagonal approx!
+compared to the more sophisticated block-tridiagonal approx!
 \end{frame}
