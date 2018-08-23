@@ -4,14 +4,10 @@
 \begin{frame}
 \frametitle{KFAC: Initial approximation $\tilde{F} \approx F$}
 
+Recall:
 \begin{figure}
     \raggedright
-    \includegraphics[scale=0.175]{fisher}
-\end{figure}
-
-\begin{figure}
-    \raggedright
-    \includegraphics[scale=0.225]{kfac_01}
+    \includegraphics[scale=0.25]{fisher}
 \end{figure}
 
 \end{frame}
@@ -20,10 +16,23 @@
 \frametitle{KFAC: Initial approximation $\tilde{F} \approx F$}
 
 \begin{figure}
-    \centering
+    \raggedright
+    \includegraphics[scale=0.25]{kfac_01}
+\end{figure}
+
+$F$ can be viewed as an $\ell$ by $\ell$ block matrix.
+\end{frame}
+
+\begin{frame}
+\frametitle{KFAC: Initial approximation $\tilde{F} \approx F$}
+
+$g_i = \mathcal{D}s_i$ is the derivative of the loss wrt the inputs to units at layer $i$
+\begin{figure}
+    \raggedright
     \includegraphics[scale=0.25]{kfac_02}
 \end{figure}
 
+% Recall: $(A \otimes B) (C \otimes D) = (AB \otimes CD)$
 \end{frame}
 
 \begin{frame}
@@ -39,7 +48,7 @@
     \includegraphics[scale=0.2]{kfac_04}
 \end{figure}
 
-... is indeed a major approximation because\\
+The main result $\tilde{F}$ is indeed a major approximation because\\
 the expectation of a Kronecker product is, in general, NOT
 equal to the Kronecker product of expectations
 
@@ -50,7 +59,7 @@ equal to the Kronecker product of expectations
 Comparing the exact $F$ vs its approximate $\tilde{F}$
 \begin{figure}
     \centering
-    \includegraphics[scale=0.25]{kfac_05}
+    \includegraphics[scale=0.275]{kfac_05}
 \end{figure}
 
 \end{frame}

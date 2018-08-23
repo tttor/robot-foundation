@@ -6,7 +6,7 @@
 
 Problem:
 \begin{itemize}
-    \item for natural gradients, there is still NO way to efficiently compute
+    \item for natural gradients, there is still NO way to \textbf{efficiently compute}
         the inverse of Fisher info matrix $F^{-1}$ (or its product with a vector)
 \end{itemize}
 
@@ -17,7 +17,9 @@ Idea:
 
 Result:
 \begin{itemize}
-    \item much faster (fewer iterations) than well-tuned SGD with momentum
+    \item has cheap iterations like SGD
+    \item needs fewer iterations than well-tuned SGD with momentum
+        (not as few as Hessian-Free opt (HFO))
 \end{itemize}
 
 \end{frame}
