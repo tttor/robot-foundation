@@ -1,4 +1,3 @@
 # Talk by tor
-Due to time-constraint, ie my bad time management, some references are not properly referenced. <br/>
-For that, we apologize. <br/>
-There is **no** deliberate intention **not** to cite someone's work. 
+Due to time-constraint, ie my bad time management, some references may not properly referenced. <br/>
+There is **no** deliberate intention **not** to cite someone's work :)
