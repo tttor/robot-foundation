@@ -1,0 +1,35 @@
+\section{Experiments}
+\frame{\tableofcontents[currentsection, hideothersubsections]}
+
+\begin{frame}
+\frametitle{Experiments}
+Setup:
+\begin{itemize}
+    \item tasks: 3 deep autoencoders: MNIST, FACES, CURVES
+    \item baseline: SGD w/ momentum (well-tuned)
+    \item $m$ is the mini-batch size;\\
+          using an exponentially increasing schedule for $m$, ie
+          $m_k = min(1000~exp((k − 1)/b), |S|)$
+\end{itemize}
+% \begin{figure}
+%     \centering
+%     \includegraphics[scale=0.225]{xprmt_setup}
+% \end{figure}
+\end{frame}
+
+\begin{frame}
+\frametitle{Experiments}
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.25]{mnist_autoencoder}
+\end{figure}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{Experiments}
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.2]{faces_autoencoder}
+\end{figure}
+\end{frame}
