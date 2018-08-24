@@ -1,0 +1,72 @@
+\section{Partially Observable Monte Carlo Planning (POMCP)}
+\frame{\tableofcontents[currentsection, hideothersubsections]}
+
+\begin{frame}
+\frametitle{POMCP: Key ideas}
+POMCP extends \textbf{MCTS} to \textbf{partially observable} environments
+\pause
+\begin{itemize}
+    \item sample start states from the belief state \\
+    (break the curse of dimensionality) \pause
+    \item sample histories using a black box simulator \\
+    (break the curse of history) \pause
+    \item evaluate each state in a search tree by the \textbf{average outcome} of simulations from that state
+\end{itemize}
+
+\end{frame}
+
+\begin{frame}
+\frametitle{POMCP: $|S|= 50$, $|A|=2$, $|Z|=2$, {\small no intermediate rewards}}
+\begin{columns}
+  \column{0.5\textwidth}
+    \begin{figure}
+        \centering
+        \includegraphics[scale=0.3,trim={0 0 30cm 0},clip]{pomcp_illustration}
+    \end{figure}
+  \column{0.5\textwidth}
+    \begin{itemize}
+        \item construct a search tree from multiple simulations, and
+        \item evaluate each history by its mean return
+    \end{itemize}
+\end{columns}
+\end{frame}
+
+\begin{frame}
+\frametitle{POMCP: $|S|= 50$, $|A|=2$, $|Z|=2$, {\small no intermediate rewards}}
+\begin{columns}
+  \column{0.5\textwidth}
+    \begin{figure}
+        \centering
+        \includegraphics[scale=0.3,trim={20cm 0 15cm 0},clip]{pomcp_illustration}
+    \end{figure}
+  \column{0.5\textwidth}
+    \begin{itemize}
+        \item select a real action $a$, and
+        \item observe a real observation $o$
+    \end{itemize}
+\end{columns}
+\end{frame}
+
+\begin{frame}
+\frametitle{POMCP: $|S|= 50$, $|A|=2$, $|Z|=2$, {\small no intermediate rewards}}
+\begin{columns}
+  \column{0.5\textwidth}
+    \begin{figure}
+        \centering
+        \includegraphics[scale=0.3,trim={35cm 0 0 0},clip]{pomcp_illustration}
+    \end{figure}
+  \column{0.5\textwidth}
+    \begin{itemize}
+        \item prune the tree and
+        \item begin a new search from the updated history $hao$
+    \end{itemize}
+\end{columns}
+\end{frame}
+
+\begin{frame}
+\frametitle{POMCP: algorithm}
+\begin{figure}
+    \centering
+    \includegraphics[scale=0.4]{pomcp_algo}
+\end{figure}
+\end{frame}
