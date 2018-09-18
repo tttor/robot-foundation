@@ -22,6 +22,12 @@
 * `sudo apt-get install python-virtualenv`
 * `virtualenv --system-site-packages -p python3 <targetDirectory>`
 
+## matplotlib
+* https://stackoverflow.com/questions/20057260/how-to-remove-gaps-between-subplots-in-matplotlib
+>> set your figure to have the correct aspect ratio
+
+```fig = plt.figure(figsize=(8,8)) # Notice the equal aspect ratio```
+
 ## misc
 * ipynb to py: https://stackoverflow.com/questions/37797709/convert-json-ipython-notebook-ipynb-to-py-file
   * `jupyter nbconvert --to script 'my-notebook.ipynb'`
