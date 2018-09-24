@@ -21,3 +21,5 @@ http://tex.stackexchange.com/questions/1137/where-do-i-place-my-own-sty-files-to
 * https://tex.stackexchange.com/questions/91566/syntax-similar-to-centering-for-right-and-left
   * \centering, \raggedleft, \raggedright
 * https://www.tug.org/TUGboat/tb28-3/tb90hoeppner.pdf
+* https://tex.stackexchange.com/questions/384722/code-in-beamer-presentation
+> use the [fragile] option for frames containing code.
