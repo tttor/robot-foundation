@@ -28,6 +28,8 @@
 * `sudo apt install htop`
 * `sudo apt-get install openssh-server`
 * `sudo apt-get install ncdu` # disk utility
+* `sudo apt install compizconfig-settings-manager`
+  * General -> General Options -> Desktop Size
 
 ## nice
 * VLC media player
