@@ -1,7 +1,8 @@
 # git
 
 * delete remote branch: `git push <remote_name> --delete <branch_name>` # [ref](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely)
-
+* https://stackoverflow.com/questions/1085162/commit-only-part-of-a-file-in-git
+  
 ## gitpython
 * `pip install gitpython`
 * https://stackoverflow.com/questions/14989858/get-the-current-git-hash-in-a-python-script
