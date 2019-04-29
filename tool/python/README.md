@@ -8,6 +8,7 @@
 * code analyzer
   * https://pypi.org/project/pylint/
   * http://pylint-messages.wikidot.com/
+* https://github.com/satwikkansal/wtfpython
 
 ## python3
 * `sudo apt install python3-pip`
