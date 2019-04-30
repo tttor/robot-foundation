@@ -19,7 +19,8 @@
   * `ssh-keygen`
 * copy key to remote
   * `ssh-copy-id -i <path/to/id_rsa_goliath.pub> username@remotehost`
-* ref: https://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/
+* See also:
+  * https://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/
 
 ## must
 * `sudo apt install git`
