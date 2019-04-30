@@ -10,7 +10,8 @@
 `sudo mount -o loop path/to/iso/file/YOUR_ISO_FILE.ISO /media/iso`
 * Unmount the ISO:
 `sudo umount /media/iso`
-* ref: https://askubuntu.com/questions/164227/how-to-mount-an-iso-file
+* see also
+  * https://askubuntu.com/questions/164227/how-to-mount-an-iso-file
 
 ## ssh without passwd
 * create key files: `id_rsa_foo` and `id_rsa_foo.pub`
