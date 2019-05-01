@@ -2,6 +2,8 @@
 
 * delete remote branch: `git push <remote_name> --delete <branch_name>` # [ref](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-both-locally-and-remotely)
 * https://stackoverflow.com/questions/1085162/commit-only-part-of-a-file-in-git
+* Branch master set up to track remote branch master from origin.
+  * git push -u origin master
   
 ## gitpython
 * `pip install gitpython`
