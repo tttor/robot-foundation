@@ -1,4 +1,4 @@
-# robot
+# Robot
 
 * Robots:
   [PR1 Robot Cleans a Room](https://www.youtube.com/watch?v=jJ4XtyMoxIA),
@@ -12,7 +12,7 @@
   KUKA Innovation Award,
   ...
 
-## did think of
+# Did think of
 * Randomized Physics-based Motion Planning for Grasping in Cluttered and Uncertain Environments,
   Muhayyuddin, Mark Moll, Lydia Kavraki, Jan Rosell
   * https://ieeexplore.ieee.org/document/8207585
