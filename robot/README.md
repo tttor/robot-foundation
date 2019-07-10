@@ -23,5 +23,8 @@
   Zhenjia Xu, Jiajun Wu, Andy Zeng, Joshua B. Tenenbaum, and Shuran Song
   * http://www.zhenjiaxu.com/paper/DensePhysNet_RSS.pdf
 
-## kinova jaco
-* torque control: http://web.stanford.edu/~smenon/robotics.html
+# Agriculture apps
+* https://www.cam.ac.uk/research/news/robot-uses-machine-learning-to-harvest-lettuce
+
+# Misc
+*  kinova jaco, torque control: http://web.stanford.edu/~smenon/robotics.html
