@@ -10,6 +10,8 @@
   [ABU Robocon](https://en.wikipedia.org/wiki/ABU_Robocon),
   [DARPA Robotics Challenge](https://spectrum.ieee.org/automaton/robotics/humanoids/drc-finals-course),
   KUKA Innovation Award,
+  [aicrowd](https://www.aicrowd.com/),
+  [kaggle](https://www.kaggle.com/competitions),
   ...
 
 # Did think of
