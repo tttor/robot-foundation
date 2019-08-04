@@ -27,6 +27,7 @@
 
 # Agriculture apps
 * https://www.cam.ac.uk/research/news/robot-uses-machine-learning-to-harvest-lettuce
+* https://twitter.com/ErikSolheim/status/1157169348013768709
 
 # Misc
 *  kinova jaco, torque control: http://web.stanford.edu/~smenon/robotics.html
