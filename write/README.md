@@ -5,3 +5,4 @@
   * https://www.chicagomanualofstyle.org/16/images/ch07_tab01.pdf
 * http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/
 * https://github.com/tttor/tex-support
+* http://www.mit.edu/people/dimitrib/Ten_Rules.html
