@@ -24,6 +24,8 @@
 * DensePhysNet: Learning Dense Physical Object Representations via Multi-step Dynamic Interactions,
   Zhenjia Xu, Jiajun Wu, Andy Zeng, Joshua B. Tenenbaum, and Shuran Song
   * http://www.zhenjiaxu.com/paper/DensePhysNet_RSS.pdf
+* Block stacking
+  * https://twitter.com/Nicolas_Reds/status/1183283011116249088
 
 # Agriculture apps
 * https://www.cam.ac.uk/research/news/robot-uses-machine-learning-to-harvest-lettuce
