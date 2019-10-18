@@ -31,6 +31,7 @@
 * https://www.cam.ac.uk/research/news/robot-uses-machine-learning-to-harvest-lettuce
 * https://twitter.com/ErikSolheim/status/1157169348013768709
 * https://twitter.com/RobotAndAIWorld/status/1182026508807938049
+* https://twitter.com/RobotAndAIWorld/status/1184889540324007936
 
 # Domestic apps
 * https://www.youtube.com/watch?v=6IGCIjp2bn4
