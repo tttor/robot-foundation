@@ -38,4 +38,6 @@
 * https://twitter.com/RobotAndAIWorld/status/1181295847067262978
 
 # Misc
-*  kinova jaco, torque control: http://web.stanford.edu/~smenon/robotics.html
+* kinova jaco, torque control: http://web.stanford.edu/~smenon/robotics.html
+* The WAM (Whole Arm Manipulation) Arm, developed at MIT by Bill Townsend and Ken Salisbury, catching a baseball:
+  https://www.youtube.com/watch?v=3LiMDJ7iTQ0
