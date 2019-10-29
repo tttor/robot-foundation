@@ -14,13 +14,15 @@
   * https://askubuntu.com/questions/164227/how-to-mount-an-iso-file
 
 ## ssh without passwd
-* create key files: `id_rsa_foo` and `id_rsa_foo.pub`
+* create key files: 
   * `cd ~/.ssh`
-  * `ssh-keygen`
+  * `ssh-keygen id_rsa_foo` # will create `id_rsa_foo` and `id_rsa_foo.pub`
 * copy key to remote
   * `ssh-copy-id -i <path/to/id_rsa_goliath.pub> username@remotehost`
+* may need to edit `.ssh/config`
 * See also:
   * https://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/
+  * https://askubuntu.com/questions/762541/ubuntu-16-04-ssh-sign-and-send-pubkey-signing-failed-agent-refused-operation
 
 ## must
 * `sudo apt install git`
