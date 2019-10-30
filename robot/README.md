@@ -26,6 +26,8 @@
   * http://www.zhenjiaxu.com/paper/DensePhysNet_RSS.pdf
 * Block stacking
   * https://twitter.com/Nicolas_Reds/status/1183283011116249088
+* Movable obstacles, online motion planning with minimum collisions
+  * https://twitter.com/KuanFang/status/1189364546374266880
 
 # Agriculture apps
 * https://www.cam.ac.uk/research/news/robot-uses-machine-learning-to-harvest-lettuce
