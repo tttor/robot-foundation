@@ -14,7 +14,7 @@
   [kaggle](https://www.kaggle.com/competitions),
   ...
 
-# Did think of
+# Been thinking of
 * Randomized Physics-based Motion Planning for Grasping in Cluttered and Uncertain Environments,
   Muhayyuddin, Mark Moll, Lydia Kavraki, Jan Rosell
   * https://ieeexplore.ieee.org/document/8207585
