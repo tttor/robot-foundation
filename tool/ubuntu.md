@@ -16,7 +16,8 @@
 ## ssh without passwd
 * create key files: 
   * `cd ~/.ssh`
-  * `ssh-keygen id_rsa_foo` # will create `id_rsa_foo` and `id_rsa_foo.pub`
+  * `ssh-keygen`
+    * `id_rsa_foo` # will create `id_rsa_foo` and `id_rsa_foo.pub`
 * copy key to remote
   * `ssh-copy-id -i <path/to/id_rsa_goliath.pub> username@remotehost`
 * may need to edit `.ssh/config`
