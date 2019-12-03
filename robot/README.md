@@ -26,6 +26,7 @@
   * http://www.zhenjiaxu.com/paper/DensePhysNet_RSS.pdf
 * Block stacking
   * https://twitter.com/Nicolas_Reds/status/1183283011116249088
+  * https://twitter.com/RobotAndAIWorld/status/1201486496554987521
 * Movable obstacles, online motion planning with minimum collisions
   * https://twitter.com/KuanFang/status/1189364546374266880
 
