@@ -9,3 +9,6 @@
 
 # ppt
 * https://twitter.com/alfcnz/status/1065750508915359744
+
+# read
+* http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
