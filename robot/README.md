@@ -29,7 +29,9 @@
   * https://twitter.com/RobotAndAIWorld/status/1201486496554987521
 * Movable obstacles, online motion planning with minimum collisions
   * https://twitter.com/KuanFang/status/1189364546374266880
-* https://h2r.cs.brown.edu/robot-writing-and-drawing/
+* Writing
+  * https://h2r.cs.brown.edu/robot-writing-and-drawing/
+  * https://twitter.com/sohbunshu/status/1209976154968297477
 
 # Agriculture apps
 * https://www.cam.ac.uk/research/news/robot-uses-machine-learning-to-harvest-lettuce
