@@ -32,6 +32,7 @@
 * Writing
   * https://h2r.cs.brown.edu/robot-writing-and-drawing/
   * https://twitter.com/sohbunshu/status/1209976154968297477
+  * https://twitter.com/hardmaru/status/1211179325220769793
 
 # Agriculture apps
 * https://www.cam.ac.uk/research/news/robot-uses-machine-learning-to-harvest-lettuce
