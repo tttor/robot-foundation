@@ -27,6 +27,7 @@
 * Block stacking
   * https://twitter.com/Nicolas_Reds/status/1183283011116249088
   * https://twitter.com/RobotAndAIWorld/status/1201486496554987521
+  * https://twitter.com/SteveStuWill/status/1211123335796363264
 * Movable obstacles, online motion planning with minimum collisions
   * https://twitter.com/KuanFang/status/1189364546374266880
 * Writing
