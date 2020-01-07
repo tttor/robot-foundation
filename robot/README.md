@@ -45,6 +45,7 @@
 # Domestic apps
 * https://www.youtube.com/watch?v=6IGCIjp2bn4
 * https://twitter.com/RobotAndAIWorld/status/1181295847067262978
+* https://twitter.com/HCI_Research/status/1214427281780662275
 
 # Misc
 * kinova jaco, torque control: http://web.stanford.edu/~smenon/robotics.html
