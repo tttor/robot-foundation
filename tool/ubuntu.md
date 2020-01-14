@@ -42,6 +42,7 @@
 * [MeshLab](http://www.meshlab.net/)
 * `sudo apt install pdftk`
 * `sudo apt install kdenlive`
+* `sudo apt-get install alarm-clock-applet`
 
 ## misc
 * https://www.digitalocean.com/community/tutorials/how-to-set-up-python-2-7-6-and-3-3-3-on-centos-6-4
