@@ -7,6 +7,9 @@
 * https://github.com/tttor/tex-support
 * http://www.mit.edu/people/dimitrib/Ten_Rules.html
 
+# research
+* http://joschu.net/blog/opinionated-guide-ml-research.html
+
 # ppt
 * https://twitter.com/alfcnz/status/1065750508915359744
 
