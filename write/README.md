@@ -15,3 +15,6 @@
 
 # read
 * http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
+
+# grammar
+* https://ell.stackexchange.com/questions/886/firstly-secondly-or-first-second
