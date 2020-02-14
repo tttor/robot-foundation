@@ -18,3 +18,4 @@
 
 # grammar
 * https://ell.stackexchange.com/questions/886/firstly-secondly-or-first-second
+  * https://brians.wsu.edu/2016/05/31/second-of-all/
