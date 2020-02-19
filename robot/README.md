@@ -41,11 +41,13 @@
 * https://twitter.com/RobotAndAIWorld/status/1182026508807938049
 * https://twitter.com/RobotAndAIWorld/status/1184889540324007936
 * https://twitter.com/mashable/status/1213260504480616450
+* https://twitter.com/RobotUnion_EU/status/1229728519179177984
 
 # Domestic apps
 * https://www.youtube.com/watch?v=6IGCIjp2bn4
 * https://twitter.com/RobotAndAIWorld/status/1181295847067262978
 * https://twitter.com/HCI_Research/status/1214427281780662275
+* https://twitter.com/vektorDewanto/status/1229877413846249472
 
 # Misc
 * kinova jaco, torque control: http://web.stanford.edu/~smenon/robotics.html
