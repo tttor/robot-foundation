@@ -9,6 +9,7 @@
 
 # research
 * http://joschu.net/blog/opinionated-guide-ml-research.html
+* http://michaelnielsen.org/blog/principles-of-effective-research/
 
 # ppt
 * https://twitter.com/alfcnz/status/1065750508915359744
