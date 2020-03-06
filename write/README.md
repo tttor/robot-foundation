@@ -13,6 +13,8 @@
 * http://michaelnielsen.org/blog/principles-of-effective-research/
 * http://www.angelproductions.co.uk/PhDSurvival.htm
   * The PHD Survival Video: https://streaming.library.uq.edu.au/media/player.php?id=UQL_MMUQ2019_Video11
+  * keep motivating yourself
+  * the world of independent learning
 
 # ppt
 * https://twitter.com/alfcnz/status/1065750508915359744
