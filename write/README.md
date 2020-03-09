@@ -1,13 +1,3 @@
-# writing
-
-* Three Sins of Authors in Computer Science and Math: http://www.cs.cmu.edu/~jrs/sins.html
-* https://www.chicagomanualofstyle.org/home.html
-  * https://www.chicagomanualofstyle.org/16/images/ch07_tab01.pdf
-* http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/
-* https://github.com/tttor/tex-support
-* http://www.mit.edu/people/dimitrib/Ten_Rules.html
-* https://h2r.cs.brown.edu/writing-a-technical-paper/
-
 # research
 * http://joschu.net/blog/opinionated-guide-ml-research.html
 * http://michaelnielsen.org/blog/principles-of-effective-research/
@@ -18,6 +8,17 @@
 * https://blog.ml.cmu.edu/2020/03/02/questions-to-ask-a-prospective-ph-d-advisor-on-visit-day-with-thorough-and-forthright-explanations/
   * a good advisor should be pushing a student to develop their own research vision.
 * https://www.edx.org/course/how-to-survive-your-phd
+* Own your PhD project How to take charge of your research, Delft University of Technology PhD Event 18-11-2010
+  * https://www.youtube.com/watch?v=q_rEqcO7hMY
+
+# writing
+* Three Sins of Authors in Computer Science and Math: http://www.cs.cmu.edu/~jrs/sins.html
+* https://www.chicagomanualofstyle.org/home.html
+  * https://www.chicagomanualofstyle.org/16/images/ch07_tab01.pdf
+* http://approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/
+* https://github.com/tttor/tex-support
+* http://www.mit.edu/people/dimitrib/Ten_Rules.html
+* https://h2r.cs.brown.edu/writing-a-technical-paper/
 
 # ppt
 * https://twitter.com/alfcnz/status/1065750508915359744
