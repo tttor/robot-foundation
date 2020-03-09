@@ -1,0 +1,42 @@
+/home/tor/rsc/robot-foundation/write/ewrite:
+Brians P. - Common Errors in English Usage-William James (2003).djvu
+David Rowland's Presentation.pdf
+Dr. John Morley-The Academic Phrasebank_ an academic writing resource for students and researchers-The University of Manchester I3 Limited (2017).pdf
+HowToWriteAThesis.pdf
+knuth_mathematical_writing.pdf
+LIST.txt
+Nicholas J. Higham - Handbook of writing for the mathematical sciences-SIAM (1998).pdf
+Nicholas J. Higham - Handbook of Writing for the Mathematical Sciences-Society for Industrial and Applied Mathematics (1998).pdf
+paper-reading.pdf
+Paul Brians - Common Errors in English Usage 2nd Edition-William, James & Company (2008).djvu
+Paul Brians - Common Errors in English Usage-William, James & Co (2006).pdf
+Research presentations-Sc-Engin-v2.pdf
+s00412ed1v01y201203eng018.pdf
+Ten_Rules.pdf
+tex
+workshop-uq
+
+/home/tor/rsc/robot-foundation/write/ewrite/tex:
+algorithm2e.pdf
+beameruserguide.pdf
+lshort.pdf
+mitthesis-templates.zip
+natnotes.pdf
+Stefan Kottwitz-LaTeX Beginner's Guide-Packt Publishing (2011).pdf
+texlive2017-20170524.iso
+
+/home/tor/rsc/robot-foundation/write/ewrite/workshop-uq:
+workshop-confimation-doc
+workshop-linking
+
+/home/tor/rsc/robot-foundation/write/ewrite/workshop-uq/workshop-confimation-doc:
+Argument Mapping Rx Writing-v2.pdf
+Confirmation Documents Summary Mind Maps-v4.pdf
+Confirmation-v5.pdf
+Lit Reviews for Rx Students-v9.pdf
+Methods Critique Table.pdf
+Research presentations-Sc-Engin-v2.pdf
+
+/home/tor/rsc/robot-foundation/write/ewrite/workshop-uq/workshop-linking:
+HDR Cohesion%2c Linkage & Flow KWJ.pdf
+HDR Cohesion%2c Linkage & Flow KWJ.pptx

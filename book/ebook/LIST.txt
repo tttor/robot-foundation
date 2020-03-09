@@ -1,0 +1,99 @@
+/home/tor/rsc/robot-foundation/book/ebook:
+Bradley Efron, R.J. Tibshirani-An Introduction to the Bootstrap (Chapman & Hall CRC Monographs on Statistics & Applied Probability) (1994).pdf
+(Cambridge Series in Statistical and Probabilistic Mathematics) A. C. Davison, D. V. Hinkley-Bootstrap Methods and their Application-Cambridge University Press (1997).pdf
+David L., Mackworth Alan K. - Artificial Intelligence_ Foundations of Computational Agents-Cambridge University Press (2010).pdf
+Hassan K. Khalil - Nonlinear systems-Prentice Hall (2002).djvu
+Hassan K Khalil - Nonlinear systems-Prentice Hall  (2002).pdf
+LIST.txt
+magz
+Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts-Refactoring - Improving the Design of Existing Code-Addison-Wesley Professional (1999).pdf
+math
+misc
+ml
+Olivier Sigaud, Olivier Buffet-Markov Decision Processes in Artificial Intelligence-Wiley-ISTE (2010).pdf
+(Prentice Hall Series in Artificial Intelligence) Stuart Russell, Peter Norvig - Artificial Intelligence_ A Modern Approach-Prentice Hall (2010).djvu
+(Prentice Hall Series in Artificial Intelligence) Stuart Russell, Peter Norvig - Artificial Intelligence_ A Modern Approach-Prentice Hall (2010).pdf
+Programming Robots with ROS_ A Practical Introduction to the Robot Operating System-O'Reilly Media (2015).pdf
+Refactoring_improving_the_design_of_existing_code.pdf
+Richard Hartley, Andrew Zisserman-Multiple View Geometry in Computer Vision-Cambridge University Press (2003).pdf
+rl
+Sicilano 2016 - Springer Handbook of Robotics.pdf
+Springer Handbook of Robotics.pdf
+tool
+vision
+
+/home/tor/rsc/robot-foundation/book/ebook/magz:
+24mra04-completeissue.pdf
+25mra01-completeissue.pdf
+25mra02-completeissue.pdf
+25mra03-completeissue.pdf
+26mra01-completeissue.pdf
+26mra04-completeissue.pdf
+
+/home/tor/rsc/robot-foundation/book/ebook/math:
+Applying Generalized Linear Models.pdf
+Bernard. W. Silverman-Density Estimation for Statistics and Data Analysis-Chapman and Hall_CRC (1998).pdf
+(Cambridge Studies in Advanced Mathematics 74) R. M. Dudley-Real Analysis and Probability-CUP (2004).pdf
+Cédric Villani Optimal transport, old and new.pdf
+Cédric Villani-Topics in optimal transportation-A.M.S. (2003).djvu
+Cédric Villani-Topics in optimal transportation-A.M.S. (2003).pdf
+Comparing Distributions-Springer-Verlag New York (2010).pdf
+David W. Scott-Multivariate Density Estimation_ Theory, Practice, and Visualization-Wiley (2015).pdf
+Hillier F.S., Lieberman G.J., Lieberman G.-Introduction To Mathematical Programming-MGH (1995).djvu
+mass_transportation_problem_rachev.pdf
+S. T. Rachev-Probability metrics and the stability of stochastic models-Wiley (1991).djvu
+Svetlozar T. Rachev, Lev Klebanov, Stoyan V. Stoyanov, Frank Fabozzi-The Methods of Distances in the Theory of Probability and Statistics-Springer (2013).pdf
+
+/home/tor/rsc/robot-foundation/book/ebook/misc:
+Adrian Kaehler, Gary Bradski-Learning OpenCV 3_ Computer vision in C++ with the OpenCV library-O’Reilly (2017).pdf
+Davide Sangiorgi-Introduction to Bisimulation and Coinduction-Cambridge University Press (2011).pdf
+From Robot to Human Grasping Simulation-Springer International Publishing (2014).pdf
+Horizons of the Mind A Tribute to Prakash Panangaden.pdf
+(Intelligent Robotics and Autonomous Agents series) Roland Siegwart, Illah Reza Nourbakhsh, Davide Scaramuzza-Introduction to Autonomous Mobile Robots-The MIT Press (2011).pdf
+Mansour Eslami Theory of Sensitivity in Dynamic Systems An Introduction.pdf
+Matthew T. Mason-Mechanics of Robotic Manipulation-The MIT Press (2001).pdf
+Multiple View Geometry in Computer Vision (Second Edition).pdf
+Prakash Panangaden-Labelled Markov Processes-Imperial College Press (2009).pdf
+Scheinerman E. -C++ for Mathematicians - An Introduction for Students and Professionals .pdf
+(Springer Handbooks) Bruno Siciliano, Oussama Khatib  (eds.)-Springer Handbook of Robotics-Springer (2016).pdf
+Steven M. LaValle-Planning Algorithms (2006).pdf
+
+/home/tor/rsc/robot-foundation/book/ebook/ml:
+Ian Goodfellow, Yoshua Bengio, Aaron Courville-Deep Learning-The MIT Press (2016).pdf
+Luc Devroye, Gabor Lugosi-Combinatorial Methods in Density Estimation (2001).pdf
+Masashi Sugiyama, Taiji Suzuki, Takafumi Kanamori-Density Ratio Estimation in Machine Learning-Cambridge University Press (2012).pdf
+Samir Madhavan-Mastering Python for Data Science-Packt Publishing (2015).pdf
+Shalev-Shwartz S., Ben-David S.-Understanding Machine Learning_ From Theory to Algorithms-CUP (2014).pdf
+(Wiley Series in Computational Statistics) Stéphane Tufféry-Data Mining and Statistics for Decision Making-Wiley (2011).pdf
+Yaser S. Abu-Mostafa, Malik Magdon-Ismail, Hsuan-Tien Lin-Learning From Data. A short course-AMLBook (2012).pdf
+
+/home/tor/rsc/robot-foundation/book/ebook/rl:
+10.1007%2F978-1-4615-3618-5.pdf
+10.1007%2F978-3-319-12197-0.pdf
+Abhijit Gosavi auth. Simulation-Based Optimization Parametric Optimization Techniques and Reinforcement Learning.pdf
+Antonio J. Conejo, Luis Baringo Morales, S. Jalal Kazempour, Afzal S. Siddiqui (auth.)-Investment in Electricity Generation and Transmission_ Decision Making under Uncertainty-Springer International P.pdf
+Bertsekas D.P. Dynamic programming and optimal control.djvu
+Christopher Gatti auth. Design of Experiments for Reinforcement Learning.pdf
+Dimitri P. Bertsekas, John N. Tsitsiklis Neuro-Dynamic Programming.djvu
+dpchapter.pdf
+Frans A. Oliehoek, Christopher Amato (auth.)-A Concise Introduction to Decentralized POMDPs-Springer International Publishing (2016).pdf
+Hyeong Soo Chang, Jiaqiao Hu, Michael C. Fu, Steven I. Marcus auth. Simulation-Based Algorithms for Markov Decision Processes.pdf
+Lucian Busoniu, Robert Babuska, Bart De Schutter, Damien Ernst Reinforcement Learning and Dynamic Programming Using Function Approximators Automation and Control Engineering.pdf
+Martijn van Otterlo, Marco Wiering auth., Marco Wiering, Martijn van Otterlo eds. Reinforcement Learning State-of-the-Art.pdf
+Martin L. Puterman-Markov decision processes. Discrete stochastic dynamic programming MVspa-Wiley-Interscience (2005).pdf
+Martin L. Puterman-Markov decision processes_ Discrete stochastic dynamic programming-Wiley (2005).djvu
+Mykel J. Kochenderfer et al. Decision Making Under Uncertainty Theory and Application.pdf
+Olivier Sigaud, Olivier Buffet-Markov Decision Processes in Artificial Intelligence-Wiley-ISTE (2010).pdf
+Pedro Domingos, Daniel Lowd-Markov logic_ an interface layer for artificial intelligence-Morgan and Claypool Publishers (2009).pdf
+probabilities-expectations.pdf
+Reinforcement Learning and Dynamic Programming Using Function Approximators (Automation and Control Engineering) (2010).pdf
+Reinforcement Learning State-of-the-Art.pdf
+Shimon Whiteson-Adaptive Representations for Reinforcement Learning (Studies in Computational Intelligence, 291)-Springer (2010).pdf
+Warren B. Powell Approximate Dynamic Programming Solving the Curses of Dimensionality, 2nd Edition.pdf
+Xi-Ren Cao Stochastic Learning and Optimization A Sensitivity-Based Approach.pdf
+
+/home/tor/rsc/robot-foundation/book/ebook/tool:
+Carol Fairchild, Thomas L. Harman-ROS Robotics By Example-Packt Publishing (2016).pdf
+
+/home/tor/rsc/robot-foundation/book/ebook/vision:
+Adrian Kaehler, Gary Bradski-Learning OpenCV 3_ Computer vision in C++ with the OpenCV library-O’Reilly (2017).pdf
