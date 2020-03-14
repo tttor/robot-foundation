@@ -1,5 +1,6 @@
 /home/tor/rsc/robot-foundation/talk/etalk:
 ai-office-hour
+AlphaGo - The Movie  Full Documentary.mp4
 Andrew Ng - The State of Artificial Intelligence.mp4
 cs287-fa19-exam-study-handout.pdf
 Geoffrey Hinton and Yann LeCun to Deliver Turing Lecture.mp4
