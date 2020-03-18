@@ -1,4 +1,5 @@
 /home/tor/rsc/robot-foundation/book/ebook:
+2005_Book_UniversalArtificialIntelligenc.pdf
 Bradley Efron, R.J. Tibshirani-An Introduction to the Bootstrap (Chapman & Hall CRC Monographs on Statistics & Applied Probability) (1994).pdf
 (Cambridge Series in Statistical and Probabilistic Mathematics) A. C. Davison, D. V. Hinkley-Bootstrap Methods and their Application-Cambridge University Press (1997).pdf
 David L., Mackworth Alan K. - Artificial Intelligence_ Foundations of Computational Agents-Cambridge University Press (2010).pdf
