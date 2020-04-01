@@ -5,6 +5,7 @@ Linus Torvalds, David Diamond - Just for Fun_ The Story of an Accidental Revolut
 LIST.txt
 matlab-r2018a
 py
+Titus Winters, Tom Manshreck, Hyrum Wright - Software Engineering at Google_ Lessons Learned from Programming Over Time-O’Reilly Media (4 Apr 2020).epub
 Wes Bos - Sublime Text Power User (2014).pdf
 
 /home/tor/rsc/robot-foundation/tool/etool/julia:
