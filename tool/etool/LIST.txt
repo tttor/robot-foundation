@@ -7011,6 +7011,7 @@ vera-webfont.ttf
 /home/tor/rsc/robot-foundation/tool/etool/py:
 (Developer’s Library) Doug Hellmann-The Python 3 Standard Library by Example-Addison-Wesley Professional (2017).pdf
 Eric Matthes - Python Crash Course A Hands-On, Project-Based Introduction to Programming-No Starch Press (2016).pdf
+how-to-code-in-python.pdf
 Julien Danjou - Serious Python_ Black-Belt Advice on Deployment, Scalability, Testing, and More-No Starch Press (2019).pdf
 Mark Lutz - Learning Python, 5th Edition-O'Reilly Media (2013).pdf
 Paul Barry - Head First Python  A Brain-Friendly Guide-O'Reilly Media (2016).pdf
