@@ -17,6 +17,7 @@ Research presentations-Sc-Engin-v2.pdf
 s00412ed1v01y201203eng018.pdf
 Ten_Rules.pdf
 tex
+the research bible resbible.pdf
 workshop-uq
 
 /home/tor/rsc/robot-foundation/write/ewrite/tex:
