@@ -19,6 +19,8 @@
 * https://github.com/tttor/tex-support
 * http://www.mit.edu/people/dimitrib/Ten_Rules.html
 * https://h2r.cs.brown.edu/writing-a-technical-paper/
+* Mathematics Into Type
+  * Ellen Swanson, Arlene Ann O'Sean, Antoinette Tingley Schleyer
 
 # ppt
 * https://twitter.com/alfcnz/status/1065750508915359744
