@@ -24,6 +24,7 @@ index.html
 media
 NEXT.md
 playlists
+star
 System Volume Information
 
 /home/tor/rsc/robot-foundation/talk/etalk/icra2018-ufd/media:
@@ -3536,6 +3537,29 @@ Visual_Tracking_2.vlc
 Wearable_and_Tactile.vlc
 Wearable_Robots.vlc
 Wearables+Soft_Robotics.vlc
+
+/home/tor/rsc/robot-foundation/talk/etalk/icra2018-ufd/star:
+1239.VI.mp4
+1317.SPV.mp4
+1358.SPV.mp4
+1390.SPV.mp4
+1393.SPV.mp4
+1426.VI.mp4
+1458.SPV.mp4
+1466.SPV.mp4
+1475.SPV.mp4
+1478.SPV.mp4
+1635.SPV.mp4
+1891.VI.mp4
+1989.VI.mp4
+2173.SPV.mp4
+2248.VI.mp4
+2289.VI.mp4
+2384.VI.mp4
+2430.VI.mp4
+2435.VI.mp4
+2498.VI.mp4
+Adam Savage's Spot Robot Rickshaw Carriage!.mp4
 
 /home/tor/rsc/robot-foundation/talk/etalk/icra2018-ufd/System Volume Information:
 IndexerVolumeGuid
