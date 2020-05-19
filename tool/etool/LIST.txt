@@ -7010,6 +7010,7 @@ veramono-webfont.ttf
 vera-webfont.ttf
 
 /home/tor/rsc/robot-foundation/tool/etool/py:
+conda-cheatsheet.pdf
 (Developer’s Library) Doug Hellmann-The Python 3 Standard Library by Example-Addison-Wesley Professional (2017).pdf
 Eric Matthes - Python Crash Course A Hands-On, Project-Based Introduction to Programming-No Starch Press (2016).pdf
 how-to-code-in-python.pdf
