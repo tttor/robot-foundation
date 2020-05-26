@@ -1,6 +1,7 @@
 # research
 * http://joschu.net/blog/opinionated-guide-ml-research.html
 * http://michaelnielsen.org/blog/principles-of-effective-research/
+* https://ruder.io/10-tips-for-research-and-a-phd/
 * http://www.angelproductions.co.uk/PhDSurvival.htm
   * The PHD Survival Video: https://streaming.library.uq.edu.au/media/player.php?id=UQL_MMUQ2019_Video11
   * keep motivating yourself
