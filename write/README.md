@@ -11,6 +11,7 @@
 * https://www.edx.org/course/how-to-survive-your-phd
 * Own your PhD project How to take charge of your research, Delft University of Technology PhD Event 18-11-2010
   * https://www.youtube.com/watch?v=q_rEqcO7hMY
+* http://colah.github.io/posts/2020-05-University/
 
 # writing
 * Three Sins of Authors in Computer Science and Math: http://www.cs.cmu.edu/~jrs/sins.html
