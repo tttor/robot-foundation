@@ -8,3 +8,4 @@ For RL-related, goto [rl-foundation/talk](https://github.com/tttor/rl-foundation
 
 ## misc
 * Fireside Chat with Daphne Koller (ICLR 2018): https://www.youtube.com/watch?v=N4mdV1CIpvI
+* https://roboticsdebates.org/
