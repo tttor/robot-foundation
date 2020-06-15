@@ -3539,6 +3539,8 @@ Wearable_Robots.vlc
 Wearables+Soft_Robotics.vlc
 
 /home/tor/rsc/robot-foundation/talk/etalk/icra2018-ufd/star:
+0685.VI.mp4
+0686.SPV.mp4
 0703.VI.mp4
 0782.SPV.mp4
 0784.SPV.mp4
