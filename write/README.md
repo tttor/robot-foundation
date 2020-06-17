@@ -30,7 +30,11 @@
 # read
 * http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf
 
-# grammar
+# English grammar
 * https://ell.stackexchange.com/questions/886/firstly-secondly-or-first-second
   * https://brians.wsu.edu/2016/05/31/second-of-all/
 * Paul Brians - Common Errors in English Usage 2nd Edition
+* https://ell.stackexchange.com/questions/3694/suggest-me-or-suggest-to-me
+
+# misc
+* https://www.elsevier.com/connect/10-ingredients-for-a-successful-supervisor-phd-student-relationship
