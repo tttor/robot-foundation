@@ -10,3 +10,5 @@ For RL-related, goto [rl-foundation/talk](https://github.com/tttor/rl-foundation
 * Fireside Chat with Daphne Koller (ICLR 2018): https://www.youtube.com/watch?v=N4mdV1CIpvI
 * https://roboticsdebates.org/
 * https://www.technologyreview.com/innovators-under-35
+* http://bohg.cs.stanford.edu/list/index.php
+  * A Diverse List Of Robotics Learning Papers: From AI Experts To You
