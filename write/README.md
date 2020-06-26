@@ -23,6 +23,7 @@
 * https://h2r.cs.brown.edu/writing-a-technical-paper/
 * Mathematics Into Type
   * Ellen Swanson, Arlene Ann O'Sean, Antoinette Tingley Schleyer
+* https://www.theguardian.com/higher-education-network/blog/2014/aug/27/finishing-phd-thesis-top-tips-experts-advice
 
 # ppt
 * https://twitter.com/alfcnz/status/1065750508915359744
