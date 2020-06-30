@@ -2,6 +2,9 @@
 Talk notes.
 For RL-related, goto [rl-foundation/talk](https://github.com/tttor/rl-foundation/tree/master/talk)
 
+* MIT Embodied Intelligence seminar
+  * https://www.youtube.com/channel/UCnXGbvgu9071i3koFooncAw
+
 ## conference
 * Conference on Robot Learning (CoRL): http://www.robot-learning.org/
 * Robotics: Science and Systems: http://www.roboticsconference.org/
