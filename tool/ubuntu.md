@@ -24,6 +24,8 @@
 * See also:
   * https://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/
   * https://askubuntu.com/questions/762541/ubuntu-16-04-ssh-sign-and-send-pubkey-signing-failed-agent-refused-operation
+  * https://superuser.com/questions/366649/ssh-config-same-host-but-different-keys-and-usernames
+  * https://unix.stackexchange.com/questions/61655/multiple-similar-entries-in-ssh-config
 
 ## must
 * `sudo apt install git`
