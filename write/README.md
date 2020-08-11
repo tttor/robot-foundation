@@ -14,6 +14,7 @@
 * http://colah.github.io/posts/2020-05-University/
 * http://theorangeduck.com/page/reproduce-their-results
 * https://blog.samaltman.com/researchers-and-founders
+* https://phdadvice.carrd.co/
 
 # writing
 * Three Sins of Authors in Computer Science and Math: http://www.cs.cmu.edu/~jrs/sins.html
