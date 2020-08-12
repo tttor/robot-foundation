@@ -1,4 +1,6 @@
 /home/tor/rsc/robot-foundation/write/ewrite:
+2004_Book_WritingForComputerScience.pdf
+2014_Book_WritingForComputerScience.pdf
 Alan Lakein - How to Get Control of Your Time and Your Life-Signet (1974).pdf
 Brians P. - Common Errors in English Usage-William James (2003).djvu
 David Rowland's Presentation.pdf
