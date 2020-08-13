@@ -1,5 +1,6 @@
 /home/tor/rsc/robot-foundation/tool/etool:
 Dan Peleg - Mastering Sublime Text-Packt Publishing (2013).pdf
+Jon Bentley - Programming Pearls-Addison-Wesley (2000).pdf
 julia
 Linus Torvalds, David Diamond - Just for Fun_ The Story of an Accidental Revolutionary-HarperCollins (2001).pdf
 LIST.txt
