@@ -8,3 +8,4 @@
 
 # Misc
 * https://missing.csail.mit.edu/
+* http://manipulation.csail.mit.edu/
