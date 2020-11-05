@@ -8,8 +8,10 @@ icra2018-ufd
 Keynote - The Past, Present, and Future of Robotics, by Fran.mp4
 LIST.txt
 Own your PhD project How to take charge of your research.mp4
+Ph.D. Applications_  FAQ.pdf
 simpar2018-usbProceedings.pdf
 Steve Jobs President & CEO, NeXT Computer Corp and Apple. MI.mp4
+stranas-ka.pdf
 
 /home/tor/rsc/robot-foundation/talk/etalk/ai-office-hour:
 Office Hours 07 1.mp4.mp4
