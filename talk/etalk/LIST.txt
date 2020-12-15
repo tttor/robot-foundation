@@ -1,11 +1,8 @@
 /home/tor/rsc/robot-foundation/talk/etalk:
 ai-office-hour
 AlphaGo - The Movie  Full Documentary.mp4
-Andrew Ng - The State of Artificial Intelligence.mp4
 cs287-fa19-exam-study-handout.pdf
-Geoffrey Hinton and Yann LeCun to Deliver Turing Lecture.mp4
 icra2018-ufd
-Keynote - The Past, Present, and Future of Robotics, by Fran.mp4
 LIST.txt
 Own your PhD project How to take charge of your research.mp4
 Ph.D. Applications_  FAQ.pdf
