@@ -21,6 +21,7 @@ s00412ed1v01y201203eng018.pdf
 Ten_Rules.pdf
 tex
 the research bible resbible.pdf
+William K. Zinsser - On Writing Well, 25th Anniversary_ The Classic Guide to Writing Nonfiction (On Writing Well) (2001).pdf
 workshop-uq
 
 /home/tor/rsc/robot-foundation/write/ewrite/tex:
