@@ -29,6 +29,7 @@
   * Ellen Swanson, Arlene Ann O'Sean, Antoinette Tingley Schleyer
 * https://www.theguardian.com/higher-education-network/blog/2014/aug/27/finishing-phd-thesis-top-tips-experts-advice
 * https://sites.google.com/view/making-reviews-great-again/
+* approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/
 
 # ppt
 * https://twitter.com/alfcnz/status/1065750508915359744
