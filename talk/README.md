@@ -16,3 +16,5 @@ For RL-related, goto [rl-foundation/talk](https://github.com/tttor/rl-foundation
 * http://bohg.cs.stanford.edu/list/index.php
   * A Diverse List Of Robotics Learning Papers: From AI Experts To You
 * https://www.youtube.com/watch?v=RhXVCfM0H74 Gregg Popovich Appreciation
+  * Manu Ginobili memories: Gregg Popovich, Steve Kerr, more Spurs share best moments | NBA on ESPN
+    https://www.youtube.com/watch?v=KTr26fOgza0
