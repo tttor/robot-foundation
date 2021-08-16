@@ -16,8 +16,9 @@
 * https://blog.samaltman.com/researchers-and-founders
 * https://phdadvice.carrd.co/
 * www.math.ucsd.edu/~fan/teach/gradpol.html
- 
+
 # writing
+* https://www.mit.edu/~jnt/write.html
 * Three Sins of Authors in Computer Science and Math: http://www.cs.cmu.edu/~jrs/sins.html
 * https://www.chicagomanualofstyle.org/home.html
   * https://www.chicagomanualofstyle.org/16/images/ch07_tab01.pdf
