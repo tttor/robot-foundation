@@ -1,6 +1,7 @@
 /home/tor/rsc/robot-foundation/write/ewrite:
 2004_Book_WritingForComputerScience.pdf
 2014_Book_WritingForComputerScience.pdf
+2019-05-On_writing.pdf
 Alan Lakein - How to Get Control of Your Time and Your Life-Signet (1974).pdf
 Brians P. - Common Errors in English Usage-William James (2003).djvu
 David Rowland's Presentation.pdf
@@ -16,6 +17,7 @@ Nicholas J. Higham - Handbook of Writing for the Mathematical Sciences-Society f
 paper-reading.pdf
 Paul Brians - Common Errors in English Usage 2nd Edition-William, James & Company (2008).djvu
 Paul Brians - Common Errors in English Usage-William, James & Co (2006).pdf
+R-20-write-v5.pdf
 Research presentations-Sc-Engin-v2.pdf
 s00412ed1v01y201203eng018.pdf
 Ten_Rules.pdf
