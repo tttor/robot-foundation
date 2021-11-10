@@ -5,6 +5,7 @@ dlist[1]=talk/etalk
 dlist[2]=thesis/ethesis
 dlist[3]=tool/etool
 dlist[4]=write/ewrite
+dlist[5]=career/ecareer
 
 for dir in "${dlist[@]}"
 do
