@@ -1,14 +1,20 @@
 /home/tor/rsc/robot-foundation/talk/etalk:
 ai-office-hour
 AlphaGo - The Movie  Full Documentary.mp4
+andrew_ng.md
 cs287-fa19-exam-study-handout.pdf
+dmitri_2017.md
+emo_sorl_2017.md
 icra2018-ufd
 LIST.txt
 Own your PhD project How to take charge of your research.mp4
 Ph.D. Applications_  FAQ.pdf
+sebastian_thrun.md
 simpar2018-usbProceedings.pdf
+steve_jobs.md
 Steve Jobs President & CEO, NeXT Computer Corp and Apple. MI.mp4
 stranas-ka.pdf
+uq
 
 /home/tor/rsc/robot-foundation/talk/etalk/ai-office-hour:
 Office Hours 07 1.mp4.mp4
@@ -3584,3 +3590,10 @@ Adam Savage's Spot Robot Rickshaw Carriage!.mp4
 
 /home/tor/rsc/robot-foundation/talk/etalk/icra2018-ufd/System Volume Information:
 IndexerVolumeGuid
+
+/home/tor/rsc/robot-foundation/talk/etalk/uq:
+ml_weekly_2017.md
+ml_weekly_2018.md
+rdl_deeprl.md
+rl_group_uq.md
+talk_misc.md

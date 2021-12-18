@@ -32,6 +32,7 @@
 * https://sites.google.com/view/making-reviews-great-again/
 * approximatelycorrect.com/2018/01/29/heuristics-technical-scientific-writing-machine-learning-perspective/
 * https://cs.stanford.edu/people/widom/paper-writing.html
+* [J. Widom](https://cs.stanford.edu/people/widom/paper-writing.html)
 
 # ppt
 * https://twitter.com/alfcnz/status/1065750508915359744
