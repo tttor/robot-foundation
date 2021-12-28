@@ -15,6 +15,7 @@ steve_jobs.md
 Steve Jobs President & CEO, NeXT Computer Corp and Apple. MI.mp4
 stranas-ka.pdf
 uq
+ztracked
 
 /home/tor/rsc/robot-foundation/talk/etalk/ai-office-hour:
 Office Hours 07 1.mp4.mp4
@@ -3597,3 +3598,6 @@ ml_weekly_2018.md
 rdl_deeprl.md
 rl_group_uq.md
 talk_misc.md
+
+/home/tor/rsc/robot-foundation/talk/etalk/ztracked:
+Office Hours 07 2.mp4.mp4
