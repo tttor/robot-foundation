@@ -5,6 +5,5 @@
   * https://twitter.com/TweetAtAKK/status/1477483852339695616
 
 # phd
-* Applying to Ph.D. Programs in Computer Science
-  Mor Harchol-Balter
-
+* Applying to Ph.D. Programs in Computer Science, Mor Harchol-Balter
+  * https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf
