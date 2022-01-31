@@ -11,3 +11,7 @@
   * https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf
 * https://www.eecs.mit.edu/what-faculty-members-are-looking-for-in-a-grad-school-application-essay/
   * https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/
+
+# cv
+* https://psc-g.github.io/resume/google/2020/03/09/preparing-your-resume.html
+  * https://psc-g.github.io/interviews/google/2020/02/25/interviewing-at-google.html
