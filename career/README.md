@@ -9,3 +9,5 @@
 # phd
 * Applying to Ph.D. Programs in Computer Science, Mor Harchol-Balter
   * https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf
+* https://www.eecs.mit.edu/what-faculty-members-are-looking-for-in-a-grad-school-application-essay/
+  * https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/
