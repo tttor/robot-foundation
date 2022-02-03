@@ -16,6 +16,7 @@
 * https://blog.samaltman.com/researchers-and-founders
 * https://phdadvice.carrd.co/
 * www.math.ucsd.edu/~fan/teach/gradpol.html
+* What is good mathematics? Terence Tao
 
 # writing
 * https://www.mit.edu/~jnt/write.html
