@@ -2,6 +2,7 @@
 
 # academia
 * https://www.eecs.mit.edu/career-opportunities-at-eecs/faculty-job-talks-tips-from-the-faculty/
+  * https://twitter.com/cesifoti/status/1494369809538195456
 * https://arunis100.medium.com/the-secret-lives-of-millennial-cs-assistant-professors-part-1-41dc712375ca
   * https://twitter.com/TweetAtAKK/status/1477483852339695616
 * https://yisongyue.medium.com/checklist-of-tips-for-computer-science-faculty-applications-9fd2480649cc
