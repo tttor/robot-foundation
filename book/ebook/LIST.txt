@@ -5,6 +5,7 @@ Bradley Efron, R.J. Tibshirani-An Introduction to the Bootstrap (Chapman & Hall 
 David L., Mackworth Alan K. - Artificial Intelligence_ Foundations of Computational Agents-Cambridge University Press (2010).pdf
 Hassan K. Khalil - Nonlinear systems-Prentice Hall (2002).djvu
 Hassan K Khalil - Nonlinear systems-Prentice Hall  (2002).pdf
+June Jamrich Parsons - New Perspectives on Computer Concepts 2018 - Introductory-Cengage Learning (2017).pdf
 LIST.txt
 magz
 Martin Fowler, Kent Beck, John Brant, William Opdyke, Don Roberts-Refactoring - Improving the Design of Existing Code-Addison-Wesley Professional (1999).pdf
