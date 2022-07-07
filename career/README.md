@@ -10,6 +10,9 @@
   * https://twitter.com/yisongyue/status/1458322064796913664
 * https://medium.com/@shuruiz/materials-for-academic-job-hunting-1-0-44dafd52b6bd
 
+# industry (including their research departments)
+* https://www.natolambert.com/writing/ai-phd-job-hunt
+
 # phd
 * Applying to Ph.D. Programs in Computer Science, Mor Harchol-Balter
   * https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf
