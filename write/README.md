@@ -17,6 +17,8 @@
 * https://phdadvice.carrd.co/
 * www.math.ucsd.edu/~fan/teach/gradpol.html
 * What is good mathematics? Terence Tao
+* How to do Research At the MIT AI Lab, David Chapman, Editor, Version 1.3, September, 1988.
+* How to do research, March 6, 2013 Bill Freeman, CSAIL, MIT
 
 # writing
 * https://www.mit.edu/~jnt/write.html
