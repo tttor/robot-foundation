@@ -19,6 +19,7 @@ Refactoring_improving_the_design_of_existing_code.pdf
 Richard Hartley, Andrew Zisserman-Multiple View Geometry in Computer Vision-Cambridge University Press (2003).pdf
 Sicilano 2016 - Springer Handbook of Robotics.pdf
 Springer Handbook of Robotics.pdf
+tcs_book.pdf
 tool
 vision
 
