@@ -7,6 +7,7 @@ julia
 Linus Torvalds, David Diamond - Just for Fun_ The Story of an Accidental Revolutionary-HarperCollins (2001).pdf
 LIST.txt
 matlab-r2018a
+panda
 py
 Titus Winters, Tom Manshreck, Hyrum Wright - Software Engineering at Google_ Lessons Learned from Programming Over Time-O’Reilly Media (4 Apr 2020).epub
 Wes Bos - Sublime Text Power User (2014).pdf
@@ -7012,13 +7013,30 @@ veramoit-webfont.ttf
 veramono-webfont.ttf
 vera-webfont.ttf
 
+/home/tor/rsc/robot-foundation/tool/etool/panda:
+Boris Paskhaver - Pandas in Action-Manning Publications (2021).pdf
+Daniel Y. Chen - Pandas for Everyone.  Python Data Analysis-Addison-Wesley Professional (2017).pdf
+Matt Harrison_ Michael Prentiss - Learning the Pandas Library_ Python Tools for Data Munging, Analysis, and Visual-Createspace Independent Publishing Platform (2016).pdf
+Michael Heydt - Learning pandas_ Get to grips with pandas - a versatile and high-performance Python library for data manipulation, analysis, and discovery-Packt Publishing (2015).pdf
+Reuven M. Lerner - Pandas Workout Version 6-Manning Publications (2022).pdf
+Stefanie Molin - Hands-On Data Analysis with Pandas_ A Python data science handbook for data collection, wrangling, analysis, and visualization-Packt Publishing (2021).pdf
+Stefanie Molin - Hands-On Data Analysis with Pandas_ Efficiently perform data collection, wrangling, analysis, and visualization using Python. Code-Packt Publishing (2019).zip
+Wes McKinney - Python for Data Analysis. Data Wrangling with Pandas, NumPy, and IPython-O’Reilly (2017).pdf
+
 /home/tor/rsc/robot-foundation/tool/etool/py:
-conda-cheatsheet.pdf
+Advanced Guide to Python 3 Programming 978-3-030-25943-3.pdf
+Allen B. Downey - Think Python_ How to Think Like a Computer Scientist-O'Reilly Media (2015).pdf
+Brett Slatkin - Effective Python_ 90 Specific Ways to Write Better Python-Addison-Wesley Professional (2019).pdf
+Dan Bader - Python Tricks_ A Buffet of Awesome Python Features-Dan Bader (2017).pdf
+David Beazley, Brian K. Jones - Python Cookbook, 3rd Edition_ Recipes for Mastering Python 3-O'Reilly Media (2013).pdf
 (Developer’s Library) Doug Hellmann-The Python 3 Standard Library by Example-Addison-Wesley Professional (2017).pdf
 Eric Matthes - Python Crash Course A Hands-On, Project-Based Introduction to Programming-No Starch Press (2016).pdf
 how-to-code-in-python.pdf
 Julien Danjou - Serious Python_ Black-Belt Advice on Deployment, Scalability, Testing, and More-No Starch Press (2019).pdf
+Luciano Ramalho - Fluent Python_ Clear, Concise, and Effective Programming-O'Reilly Media (2022).pdf
 Mark Lutz - Learning Python, 5th Edition-O'Reilly Media (2013).pdf
+Matthew Wilkes - Advanced Python Development_ Using Powerful Language Features in Real-World Applications-Apress (2020).pdf
+Michal Jaworski, Tarek Ziadé - Expert Python Programming_ Master Python by learning the best coding practices and advanced programming concepts-Packt Publishing (2021).pdf
 Paul Barry - Head First Python  A Brain-Friendly Guide-O'Reilly Media (2016).pdf
-thinkCSpy.pdf
+Quan Nguyen - Advanced Python Programming_ Accelerate your Python programs using proven techniques and design patterns, 2nd Edition-Packt (2022).pdf
 (Zed Shaw’s Hard Way Series) Zed A. Shaw - Learn Python 3 the Hard Way_ A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code-Addison-Wesley Professional (2017).pdf
