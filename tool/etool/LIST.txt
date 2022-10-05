@@ -7038,5 +7038,19 @@ Mark Lutz - Learning Python, 5th Edition-O'Reilly Media (2013).pdf
 Matthew Wilkes - Advanced Python Development_ Using Powerful Language Features in Real-World Applications-Apress (2020).pdf
 Michal Jaworski, Tarek Ziadé - Expert Python Programming_ Master Python by learning the best coding practices and advanced programming concepts-Packt Publishing (2021).pdf
 Paul Barry - Head First Python  A Brain-Friendly Guide-O'Reilly Media (2016).pdf
+python
 Quan Nguyen - Advanced Python Programming_ Accelerate your Python programs using proven techniques and design patterns, 2nd Edition-Packt (2022).pdf
 (Zed Shaw’s Hard Way Series) Zed A. Shaw - Learn Python 3 the Hard Way_ A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code-Addison-Wesley Professional (2017).pdf
+
+/home/tor/rsc/robot-foundation/tool/etool/py/python:
+arg_parse.py
+closure2.py
+closure.py
+make_table.py
+nested_dict.py
+plot_ignoring_missing_data.py
+README.md
+two_x_axis_2.py
+two_x_axis.py
+yaml_loader.py
+yield.py
