@@ -12,6 +12,11 @@
 
 # industry (including their research departments)
 * https://www.natolambert.com/writing/ai-phd-job-hunt
+* https://www.teamrora.com/
+* https://cdf.graduate-school.uq.edu.au/event/124/career-planning
+  * The 'What Next' Video http://www.angelproductions.co.uk/universities.htm
+* https://versatilephd.com/phd-career-finder/
+* https://cheekyscientist.com/r-success-stories/
 
 # phd
 * Applying to Ph.D. Programs in Computer Science, Mor Harchol-Balter
