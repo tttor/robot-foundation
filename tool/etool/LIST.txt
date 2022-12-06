@@ -2,6 +2,8 @@
 Catherine C McGeoch - A guide to experimental algorithmics-Cambridge University Press (2012).pdf
 Catherine C. McGeoch - A Guide to Experimental Algorithmics-Cambridge University Press (2012).pdf
 Dan Peleg - Mastering Sublime Text-Packt Publishing (2013).pdf
+django
+javascript
 Jon Bentley - Programming Pearls-Addison-Wesley (2000).pdf
 julia
 Linus Torvalds, David Diamond - Just for Fun_ The Story of an Accidental Revolutionary-HarperCollins (2001).pdf
@@ -11,6 +13,16 @@ panda
 py
 Titus Winters, Tom Manshreck, Hyrum Wright - Software Engineering at Google_ Lessons Learned from Programming Over Time-O’Reilly Media (4 Apr 2020).epub
 Wes Bos - Sublime Text Power User (2014).pdf
+
+/home/tor/rsc/robot-foundation/tool/etool/django:
+Antonio Mele - Django 4 By Example_ Build powerful and reliable Python web applications from scratch, 4th Edition-Packt Publishing (2022).pdf
+- Django for Beginners_ Build websites with Python & Django-Leanpub (2022).pdf
+G. Lim, D. Correa - Django 4 for the Impatient. Learn the core concepts of Python web development with Django in one weekend (2022).pdf
+M. Dinder - Becoming an Enterprise Django Developer. Discover best practices, tooling, and solutions for writing and organizing Django applications in production (2022).pdf
+William S. Vincent - Django for Professionals_ Production websites with Python & Django 4.0-leanpub.com (2022).pdf
+
+/home/tor/rsc/robot-foundation/tool/etool/javascript:
+David Flanagan - JavaScript_ The Definitive Guide_ Master the World's Most-Used Programming Language-O'Reilly Media (2020).pdf
 
 /home/tor/rsc/robot-foundation/tool/etool/julia:
 Anshul Joshi - Julia for Data Science-Packt Publishing (2016).pdf
