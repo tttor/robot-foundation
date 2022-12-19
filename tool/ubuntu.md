@@ -47,6 +47,7 @@
 * `sudo apt-get install alarm-clock-applet`
 * The calibre E-book viewer for .epub
 * gThumb: An image viewer and browser for GNOME.
+* ncdu: https://linux.die.net/man/1/ncdu
 
 ## misc
 * https://www.digitalocean.com/community/tutorials/how-to-set-up-python-2-7-6-and-3-3-3-on-centos-6-4
