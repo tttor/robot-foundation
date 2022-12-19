@@ -21,6 +21,12 @@
 * copy key to remote
   * `ssh-copy-id -i <path/to/id_rsa_goliath.pub> username@remotehost`
 * may need to edit `.ssh/config`
+```
+Host some.edu.au
+  IdentityFile ~/.ssh/id_rsa_foo
+  IdentitiesOnly yes
+  Port 22
+```
 * See also:
   * https://www.thegeekstuff.com/2008/11/3-steps-to-perform-ssh-login-without-password-using-ssh-keygen-ssh-copy-id/
   * https://askubuntu.com/questions/762541/ubuntu-16-04-ssh-sign-and-send-pubkey-signing-failed-agent-refused-operation
