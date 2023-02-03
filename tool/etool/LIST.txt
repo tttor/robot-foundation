@@ -25,9 +25,16 @@ William S. Vincent - Django for Professionals_ Production websites with Python &
 David Flanagan - JavaScript_ The Definitive Guide_ Master the World's Most-Used Programming Language-O'Reilly Media (2020).pdf
 
 /home/tor/rsc/robot-foundation/tool/etool/julia:
+Allen Downey, Ben Lauwens - Think Julia_ How to Think Like a Computer Scientist-O'REILLY (2019).pdf
 Anshul Joshi - Julia for Data Science-Packt Publishing (2016).pdf
+Antonello Lobianco - Julia Quick Syntax Reference_ A Pocket Guide for Data Science Programming-Apress (2019).pdf
+Avik Sengupta_ Alan Edelman - Julia high performance _ optimizations, distributed computing, multithreading, and GPU programming with Julia 1.0 and beyond (2019).pdf
+Ivo Balbaert_ Adrian Salceanu - Julia 1.0 Programming Complete Reference Guide_ Discover Julia, a high-performance language for technical computing-Packt Publishing (2019).pdf
 Jalem Raj Rohit - Julia Cookbook-Packt Publishing (2016).pdf
+Jim Peter - Learn Julia Programming_ Useful for Graduates, Post-graduates, and Research Students who Either Have an Interest in Julia Programming (2021).pdf
+Noel Kalicharan - Julia - Bit by Bit_ Programming for Beginners (Undergraduate Topics in Computer Science)-Springer (2021).pdf
 Paul D. McNicholas, Peter A. Tait - Data Science with Julia-CRC Press (2019).pdf
+Tom Kwong - Hands-on Design Patterns and Best Practices with Julia-Packt (2020).pdf
 
 /home/tor/rsc/robot-foundation/tool/etool/matlab-r2018a:
 dvdboth
